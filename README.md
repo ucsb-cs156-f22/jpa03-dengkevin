@@ -4,7 +4,7 @@
 
 Storybook is here:
 
-Production: https://ucsb-cs156-f22.github.io/demo-spring-react-example-docs/
+Production: https://ucsb-cs156-f22.github.io/jpa03-dengkevin-docs/storybook
 
 QA: https://ucsb-cs156-f22.github.io/demo-spring-react-example-docs-qa/
 
